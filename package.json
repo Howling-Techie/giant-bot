@@ -1,0 +1,22 @@
+{
+  "name": "giant-bot",
+  "version": "0.1.0",
+  "description": "Javascript discord bot for interacting with Giant Bomb",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Howling-Techie/giant-bot.git"
+  },
+  "author": "Howling Techie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Howling-Techie/giant-bot/issues"
+  },
+  "homepage": "https://github.com/Howling-Techie/giant-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.13.0"
+  }
+}
